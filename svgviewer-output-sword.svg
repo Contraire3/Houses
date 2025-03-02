@@ -1,14 +1,14 @@
 <svg width="720" height="720" viewBox="0 0 560 540" xmlns="http://www.w3.org/2000/svg">
   <!-- Head -->
-  <rect x="343" y="498" width="34" height="34" rx="17" fill="#d4af37" stroke="#000" stroke-width="8"/>
-  <rect x="347.5" y="502" width="25" height="8" rx="4" fill="#fff" opacity=".5"/>
+  <rect x="263" y="508" width="34" height="34" rx="17" fill="#d4af37" stroke="#000" stroke-width="8"/>
+  <rect x="267.5" y="512" width="25" height="8" rx="4" fill="#fff" opacity=".5"/>
   <!-- Handle -->
-  <path fill="#8B0000" stroke="#000" stroke-width="8" d="M348 426h24v72h-24z"/>
-  <path stroke="#4a2c14" stroke-width="4" d="M350 450h20m-20 24h20"/>
+  <path fill="#8B0000" stroke="#000" stroke-width="8" d="M268 436h24v72h-24z"/>
+  <path stroke="#4a2c14" stroke-width="4" d="M270 460h20m-20 24h20"/>
   <!-- Top part -->
-  <rect x="300" y="402" width="120" height="24" rx="12" fill="#d4af37" stroke="#000" stroke-width="8"/>
-  <rect x="312" y="406" width="96" height="6" rx="3" fill="#fff" opacity=".5"/>
-  <path fill="#ccc" stroke="#000" stroke-width="8" d="M336 402h48V30l-24-30-24 30z"/>
-  <path stroke="#999" stroke-width="8" d="M360 396V30"/>
-  <path stroke="#fff" opacity=".8" d="M348 342V30"/>
+  <rect x="220" y="412" width="120" height="24" rx="12" fill="#d4af37" stroke="#000" stroke-width="8"/>
+  <rect x="232" y="416" width="96" height="6" rx="3" fill="#fff" opacity=".5"/>
+  <path fill="#ccc" stroke="#000" stroke-width="8" d="M256 412h48V40l-24-30-24 30z"/>
+  <path stroke="#999" stroke-width="8" d="M280 406V40"/>
+  <path stroke="#fff" opacity=".8" d="M268 352V40"/>
 </svg>
