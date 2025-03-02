@@ -1,1 +1,11 @@
-<svg width="120" height="120" viewBox="0 0 120 110" xmlns="http://www.w3.org/2000/svg"><rect x="53" y="100" width="14" height="8" rx="4" fill="#d4af37" stroke="#000" stroke-width="2"/><rect x="55" y="101" width="10" height="2" rx="1" fill="#fff" opacity=".5"/><path fill="#6b3e1f" stroke="#000" stroke-width="2" d="M56 76h8v24h-8z"/><path stroke="#4a2c14" d="M55 82h10m-10 6h10m-10 6h10"/><rect x="45" y="68" width="30" height="8" rx="4" fill="#d4af37" stroke="#000" stroke-width="2"/><rect x="48" y="69" width="25" height="2" rx="1" fill="#fff" opacity=".5"/><path fill="#ccc" stroke="#000" stroke-width="2" d="M54 68h12V5l-6-5-6 5z"/><path stroke="#999" stroke-width="2" d="M60 67V5"/><path stroke="#fff" opacity=".8" d="M57 60V5"/></svg>
+<svg width="480" height="480" viewBox="0 0 480 440" xmlns="http://www.w3.org/2000/svg">
+  <rect x="212" y="400" width="56" height="32" rx="16" fill="#d4af37" stroke="#000" stroke-width="8"/>
+  <rect x="220" y="404" width="40" height="8" rx="4" fill="#fff" opacity=".5"/>
+  <path fill="#6b3e1f" stroke="#000" stroke-width="8" d="M224 304h32v96h-32z"/>
+  <path stroke="#4a2c14" d="M220 328h40m-40 24h40m-40 24h40"/>
+  <rect x="180" y="272" width="120" height="32" rx="16" fill="#d4af37" stroke="#000" stroke-width="8"/>
+  <rect x="192" y="276" width="100" height="8" rx="4" fill="#fff" opacity=".5"/>
+  <path fill="#ccc" stroke="#000" stroke-width="8" d="M216 272h48V20l-24-20-24 20z"/>
+  <path stroke="#999" stroke-width="8" d="M240 268V20"/>
+  <path stroke="#fff" opacity=".8" d="M228 240V20"/>
+</svg>
